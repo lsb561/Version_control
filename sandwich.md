@@ -5,6 +5,8 @@ bread
 ketchup
 lettuce
 pickles 
+lettuce 
+tomato
 cheese
 bread
 ```
