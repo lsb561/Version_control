@@ -4,6 +4,7 @@
 bread
 ketchup
 lettuce 
+tomato
 cheese
 bread
 ```
