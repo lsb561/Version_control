@@ -3,10 +3,12 @@
 ```
 bread
 ketchup
-lettuce 
+lettuce
+pickles 
 cheese
 bread
 ```
 
 ## Todos:
 - [x] add filling 
+- [x] add extra filling
